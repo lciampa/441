@@ -5,4 +5,4 @@ Likewise, with styles.css, I get it to a degree, and then, at a certain point, I
 I have been intimidated by this class because it has taken me longer to understand and make decisions about how to structure information without needing to review the material repeatedly. Working through issues and making it look *generally* how I had hoped it would, remind me I am still learning. I look forward to having more confidence and efficiency in my process.
 It was fun to consider a gaming memory. As someone who doesn't have a lot of personal interest in the gaming industry, I realize I have generalized the industry as a whole, and many incredible things can be done through games. It took remembering some of my childhood memories and the lessons I learned through those games. Playing is so important in life, especially when you are a kid. Some important life lessons can be uncovered by playing different characters or roles in various scenes.
 
-*Also I had a hard time seeing this on my phone, what am I doing wrong here?
+***Also I had a hard time seeing this on my phone, what am I doing wrong here?
